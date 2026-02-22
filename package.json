@@ -1,0 +1,24 @@
+{
+  "name": "cypress-bdd",
+  "version": "1.0.0",
+  "description": "cypress bdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcandas/cypress-bdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fcandas/cypress-bdd/issues"
+  },
+  "homepage": "https://github.com/fcandas/cypress-bdd#readme",
+  "devDependencies": {
+    "cypress": "^15.10.0"
+  }
+}
